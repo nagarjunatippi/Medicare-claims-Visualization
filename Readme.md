@@ -1,1 +1,0 @@
-line chart with dropdown selector
